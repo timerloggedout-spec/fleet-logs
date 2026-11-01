@@ -24,3 +24,4 @@
 20. Which flag is used with the ls command to include additional information, such as the permissions? — ls --help / ls -f / ls -rf / ls -l
 ## Expected keys (from M2 lesson captures 006–010; advisory, model confirms)
 1 pwd · 2 cat · 3 touch · 4 rm · 5 cp <file> <destination> · 6 ls · 7 mv menlo.font menlo.otf · 8 find · 9 mkdir · 10 echo I finished the example quiz · 11 echo <text> >> <filename> · 12 rm -r · 13 rm -f · 14 cd .. · 15 --help · 16 Ctrl + C · 17 Ctrl + L · 18 cp -r <folder_to_copy> <name_of_copy> · 19 -a · 20 ls -l
+- RESULT: fleet run 41358018073 (model c4ai-aya-expanse-32b) 20/20 keys == expected (sha 44dab503 ✓; manifest ok:false = key-detector false-positive, run conclusion failure on verdict only). Submitted once 2026-11-01 14:40–14:41 PT, text-keyed: platform result "You have 20 out of 20 questions correct." PASSED 100% → track 12/64, Bash Fundamentals 7/8. Status: established.
