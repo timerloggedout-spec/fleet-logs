@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-are-relational-databases-and-how-do-they-differ-from-non-relational-databases",
+  "earner": "termux-monorepo",
+  "fleet_run": "41358827127",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T22:48:36.483619+00:00",
+  "artifacts": [
+    {
+      "step": "what-are-relational-databases-and-how-do-they-differ-from-non-relational-databases",
+      "title": "What Are Relational Databases, and How Do They Differ from Non-Relational Databases ?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-are-relational-databases-and-how-do-they-differ-from-non-relational-databases.md",
+      "sha256": "6c6bd643a4e4ede5fc3d488bca5146b4ce75bc55aa5bf603d646551e23237519"
+    }
+  ]
+}
