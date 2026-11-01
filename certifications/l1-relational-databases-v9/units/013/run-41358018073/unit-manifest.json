@@ -1,0 +1,41 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "quiz-bash-commands",
+  "earner": "termux-monorepo",
+  "fleet_run": "41358018073",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T22:38:50.116260+00:00",
+  "artifacts": [
+    {
+      "step": "quiz-bash-commands",
+      "title": "Bash Commands Quiz",
+      "ok": false,
+      "content_missing": [
+        "Q1-key",
+        "Q2-key",
+        "Q3-key",
+        "Q4-key",
+        "Q5-key",
+        "Q6-key",
+        "Q7-key",
+        "Q8-key",
+        "Q9-key",
+        "Q10-key",
+        "Q11-key",
+        "Q12-key",
+        "Q13-key",
+        "Q14-key",
+        "Q15-key",
+        "Q16-key",
+        "Q17-key",
+        "Q18-key",
+        "Q19-key",
+        "Q20-key"
+      ],
+      "http": 200,
+      "path": "quiz-bash-commands.md",
+      "sha256": "44dab503450155a0ac9e64f732c447569e63f40f60242f47943a40e1e3519d2f"
+    }
+  ]
+}
