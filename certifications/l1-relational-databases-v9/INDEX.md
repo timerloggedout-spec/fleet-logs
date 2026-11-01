@@ -1,7 +1,7 @@
 # L1 Relational Databases v9 — Capture Index
 Stream: fleet-logs `certifications/l1-relational-databases-v9/`
 Earner: termux-monorepo · Attribution per unit {fleet run, model, status}
-FCC progress: 9/64 (2026-11-01 14:17 PT) · M1 Code Editors COMPLETE 5/5
+FCC progress: 10/64 (2026-11-01 14:27 PT) · M1 Code Editors COMPLETE 5/5
 
 | unit | item | status | fleet run | model |
 |---|---|---|---|---|
@@ -14,5 +14,5 @@ FCC progress: 9/64 (2026-11-01 14:17 PT) · M1 Code Editors COMPLETE 5/5
 | 007 | Command Line Shortcuts | PASSED 2/64 | 41354457916 | c4ai-aya-expanse-32b |
 | 008 | What Is Bash, Basic Commands | PASSED 3/64 (manifest detector false-positive noted) | 41354472919 | c4ai-aya-expanse-32b |
 | 009 | Command Options and Flags | PASSED 4/64 | 41354487819 | c4ai-aya-expanse-32b |
-| 010 | Configure System Language | re-run pending — Q2 pinned semicolon (;) (arbiter: @ wrong; body firsthand) | 41354501396 (Q2 wrong) | c4ai-aya-expanse-32b |
+| 010 | Configure System Language | PASSED 10/64 (Bash theory group COMPLETE) | 41356848395 (v6 pinned) | c4ai-aya-expanse-32b |
 | 011 | Workshop: Build a Boilerplate | token generated; Codespaces secret placement pending owner paste; revocation duty logged | — | — |
