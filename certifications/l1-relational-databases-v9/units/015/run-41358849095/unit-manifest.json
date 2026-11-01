@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-are-some-common-relational-databases-and-how-do-you-install-and-use-postres",
+  "earner": "termux-monorepo",
+  "fleet_run": "41358849095",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T22:48:51.374769+00:00",
+  "artifacts": [
+    {
+      "step": "what-are-some-common-relational-databases-and-how-do-you-install-and-use-postres",
+      "title": "What Are Some Common Relational Databases, and How Do You Install and Use Postgres ?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-are-some-common-relational-databases-and-how-do-you-install-and-use-postres.md",
+      "sha256": "d011aad94ba040d5ebe54600f4ad166ac7d7d7ede92017077e7d6764d89139d5"
+    }
+  ]
+}
