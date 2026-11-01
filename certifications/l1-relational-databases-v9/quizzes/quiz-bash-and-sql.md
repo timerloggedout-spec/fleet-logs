@@ -1,0 +1,26 @@
+# Unit 038 — Quiz: Bash and SQL Quiz (Q)
+- URL: https://www.freecodecamp.org/learn/relational-databases-v9/quiz-bash-and-sql/quiz-bash-and-sql
+- 20Q × 4, pass ≥18/20, "Finish the quiz". Option order SHUFFLES per load ⇒ key by TEXT.
+## Verbatim set (signed-in capture 2026-11-01, this load's order)
+1. What is a bash script? — A type of malware. / A file containing a sequence of commands that can be executed by the bash shell. / A graphical user interface for managing files. / A programming language for web development.
+2. What is the purpose of the echo command in bash? — To display text or variables to the terminal. / To create a new file. / To delete a file. / To change directories.
+3. What is the purpose of the if statement in bash? — To repeat a block of code multiple times. / To execute a block of code conditionally based on a condition. / To define a function. / To exit the script.
+4. Which of the following is a valid way to assign a value to a variable in bash? — variable = value / variable=value / set variable=value / variable: value
+5. How do you create a function in bash? — function_name() { commands } / def function_name(): commands / function function_name { commands } / create function_name() { commands }
+6. What is the purpose of the chmod command in bash? — To change file permissions. / To change the owner of a file. / To create a new directory. / To display file contents.
+7. What is normalization in SQL? — The process of organizing data to reduce redundancy and improve data integrity. / The process of encrypting data for security. / The process of backing up data. / The process of creating indexes for faster queries.
+8. What is the purpose of a primary key in a database table? — To uniquely identify each record in the table. / To store large amounts of data. / To link tables together. / To sort data in ascending order.
+9. What is SQL injection? — A method to improve database performance. / A technique to encrypt sensitive data. / A security vulnerability that allows attackers to execute malicious SQL code. / A type of database backup.
+10. What does the following bash command do? echo $HOME — Displays the current working directory. / Displays the home directory path. / Lists all files in the home directory. / Changes to the home directory.
+11. What is the purpose of the grep command in bash? — To search for patterns in files. / To sort lines in a file. / To count words in a file. / To display file permissions.
+12. Which SQL statement is used to retrieve data from a database? — INSERT / UPDATE / DELETE / SELECT
+13. What is the N+1 problem in the context of database queries? — A problem where a single query returns too much data. / A problem where N queries are executed for N records, plus one initial query. / A problem where queries are not indexed properly. / A problem where the database connection is lost.
+14. What is the purpose of the for loop in bash? — To execute a block of code for each item in a list. / To define a function. / To check a condition. / To exit a script.
+15. In the context of normalization, which normal form is characterized by atomic values in each column and a unique primary key? — First Normal Form (1NF) / Third Normal Form (3NF) / Boyce-Codd Normal Form (BCNF) / Second Normal Form (2NF)
+16. Which of the following is a common way to prevent SQL injection? — Using prepared statements and parameterized queries. / Disabling user input. / Using plain text passwords. / Storing data in a single table.
+17. What does the following bash command do? ls -l — Lists files in long format with details. / Lists files in alphabetical order. / Lists hidden files only. / Lists directories only.
+18. What is the purpose of a foreign key in a database? — To uniquely identify each record. / To establish a relationship between two tables. / To store large amounts of data. / To sort data in a table.
+19. What is the purpose of the while loop in bash? — To execute a block of code repeatedly while a condition is true. / To define a function. / To check a condition once. / To exit a script.
+20. In a many-to-many relationship between students and courses, what does the junction table contain? — Only student IDs. / Only course IDs. / Full student and course details. / Both IDs and enrollment date.
+## Expected keys (advisory)
+1 A file containing a sequence of commands that can be executed by the bash shell. · 2 To display text or variables to the terminal. · 3 To execute a block of code conditionally based on a condition. · 4 variable=value · 5 function_name() { commands } · 6 To change file permissions. · 7 The process of organizing data to reduce redundancy and improve data integrity. · 8 To uniquely identify each record in the table. · 9 A security vulnerability that allows attackers to execute malicious SQL code. · 10 Displays the home directory path. · 11 To search for patterns in files. · 12 SELECT · 13 A problem where N queries are executed for N records, plus one initial query. · 14 To execute a block of code for each item in a list. · 15 First Normal Form (1NF) · 16 Using prepared statements and parameterized queries. · 17 Lists files in long format with details. · 18 To establish a relationship between two tables. · 19 To execute a block of code repeatedly while a condition is true. · 20 Both IDs and enrollment date.
