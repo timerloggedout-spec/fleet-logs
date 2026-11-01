@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-are-some-good-vs-code-extensions-you-can-use-in-your-editor",
+  "earner": "termux-monorepo",
+  "fleet_run": "41354142327",
+  "provider": "cohere",
+  "model": "default",
+  "generated_at": "2026-11-01T21:51:50.409084+00:00",
+  "artifacts": [
+    {
+      "step": "what-are-some-good-vs-code-extensions-you-can-use-in-your-editor",
+      "title": "What Are Some Good VS Code Extensions You Can Use in Your Editor?",
+      "ok": false,
+      "content_missing": [],
+      "http": 404,
+      "path": "what-are-some-good-vs-code-extensions-you-can-use-in-your-editor.md",
+      "sha256": null
+    }
+  ]
+}

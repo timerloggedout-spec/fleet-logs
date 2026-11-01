@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-the-terminal-and-how-does-it-differ-from-the-command-line",
+  "earner": "termux-monorepo",
+  "fleet_run": "41354442069",
+  "provider": "cohere",
+  "model": "default",
+  "generated_at": "2026-11-01T21:55:33.899008+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-the-terminal-and-how-does-it-differ-from-the-command-line",
+      "title": "What Is the Terminal, and How Does It Differ from the Command Line?",
+      "ok": false,
+      "content_missing": [],
+      "http": 404,
+      "path": "what-is-the-terminal-and-how-does-it-differ-from-the-command-line.md",
+      "sha256": null
+    }
+  ]
+}

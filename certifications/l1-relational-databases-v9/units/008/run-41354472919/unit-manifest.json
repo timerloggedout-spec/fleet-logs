@@ -1,0 +1,23 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-bash-and-what-are-some-basic-commands",
+  "earner": "termux-monorepo",
+  "fleet_run": "41354472919",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T21:57:33.095048+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-bash-and-what-are-some-basic-commands",
+      "title": "What Is Bash, and What Are Some Basic Commands?",
+      "ok": false,
+      "content_missing": [
+        "Q1",
+        "Q3"
+      ],
+      "http": 200,
+      "path": "what-is-bash-and-what-are-some-basic-commands.md",
+      "sha256": "2082e5650e6f4b169351846f4bbcbe53469bfa2cc2d051f3cb103290c636b995"
+    }
+  ]
+}
