@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-are-the-basic-data-types-in-sql",
+  "earner": "termux-monorepo",
+  "fleet_run": "41358895763",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T22:49:22.707184+00:00",
+  "artifacts": [
+    {
+      "step": "what-are-the-basic-data-types-in-sql",
+      "title": "What Are the Basic Data Types in SQL ?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-are-the-basic-data-types-in-sql.md",
+      "sha256": "facb67c3f36baf9be3a73e96d872c21ec447f986e2800cc7991c7c3e99e6d751"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # L1 Relational Databases v9 — Capture Index
 Stream: fleet-logs `certifications/l1-relational-databases-v9/`
 Earner: termux-monorepo · Attribution per unit {fleet run, model, status}
-FCC progress: 12/64 (2026-11-01 14:41 PT) · M1 Code Editors COMPLETE 5/5
+FCC progress: 18/64 (2026-11-01 14:54 PT) · M1 Code Editors COMPLETE 5/5
 
 | unit | item | status | fleet run | model |
 |---|---|---|---|---|
@@ -18,3 +18,11 @@ FCC progress: 12/64 (2026-11-01 14:41 PT) · M1 Code Editors COMPLETE 5/5
 | 011 | Workshop: Build a Boilerplate | token generated; Codespaces secret placement pending owner paste; revocation duty logged | — | — |
 | 012 | Review: Bash Commands | COMPLETED 11/64 · established-by-mechanic (session action + M2 captures) | session (R-type) | — |
 | 013 | Quiz: Bash Commands | PASSED 20/20 run 41358018073 (detector false-positive on manifest) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 014 | Theory: Relational vs Non-Relational | PASSED run 41358827127 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 015 | Theory: Common Relational Databases / Postgres | PASSED run 41358849095 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 016 | Theory: SQL + Create Database with Tables | PASSED run 41358872790 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 017 | Theory: Basic Data Types | PASSED run 41358895763 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 018 | Theory: Insert and View Data | run 41358918085 TRUNCATED at Q3 (Q2 key = expected minus trailing ;) — HOLD re-fire | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 019 | Theory: Primary and Foreign Keys | PASSED run 41358940452 (Q3 via Correct Option line; KEY line truncated) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 020 | Theory: Types of Relationships | run 41358959968 TRUNCATED (Q2 KEY cut, Q3 absent) — HOLD re-fire | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 021 | Theory: Join Tables | PASSED run 41358979996 (Q3 via Correct Option line; KEY line truncated) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |

@@ -1,0 +1,22 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-are-primary-and-foreign-keys-in-sql-and-how-do-they-work",
+  "earner": "termux-monorepo",
+  "fleet_run": "41358940452",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T22:49:56.273853+00:00",
+  "artifacts": [
+    {
+      "step": "what-are-primary-and-foreign-keys-in-sql-and-how-do-they-work",
+      "title": "What Are Primary and Foreign Keys in SQL, and How Do They Work ?",
+      "ok": false,
+      "content_missing": [
+        "Q3-key"
+      ],
+      "http": 200,
+      "path": "what-are-primary-and-foreign-keys-in-sql-and-how-do-they-work.md",
+      "sha256": "d0bae670c2403d2fc2f8a8acbd53b0afe973f258fe8b95c81baf94537f9af75a"
+    }
+  ]
+}
