@@ -1,0 +1,22 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-are-the-different-ways-to-join-tables",
+  "earner": "termux-monorepo",
+  "fleet_run": "41358979996",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T22:50:23.440062+00:00",
+  "artifacts": [
+    {
+      "step": "what-are-the-different-ways-to-join-tables",
+      "title": "What Are the Different Ways to Join Tables ?",
+      "ok": false,
+      "content_missing": [
+        "Q3-key"
+      ],
+      "http": 200,
+      "path": "what-are-the-different-ways-to-join-tables.md",
+      "sha256": "dbfaeb875772d8bb07bd57b5ac44a119c6e633eb6ea9020058a74efd37c002ae"
+    }
+  ]
+}
