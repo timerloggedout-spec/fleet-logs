@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "how-do-you-insert-and-view-data-in-a-table",
+  "earner": "termux-monorepo",
+  "fleet_run": "41359548328",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T22:57:29.273001+00:00",
+  "artifacts": [
+    {
+      "step": "how-do-you-insert-and-view-data-in-a-table",
+      "title": "How Do You Insert and View Data in a Table ?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "how-do-you-insert-and-view-data-in-a-table.md",
+      "sha256": "2009d4c63cac7703590e3dc1e9b3fb66f84272ec5b8228d28775e871cc76586b"
+    }
+  ]
+}
