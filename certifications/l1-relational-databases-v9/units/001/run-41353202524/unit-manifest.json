@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-a-code-editor-and-ide",
+  "earner": "termux-monorepo",
+  "fleet_run": "41353202524",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T21:42:12.313063+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-a-code-editor-and-ide",
+      "title": "What Is a Code Editor and IDE?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-is-a-code-editor-and-ide.md",
+      "sha256": "b3303671eda2dcdf029f6c2fcc751c1561a6c0c39166e8f7fc35d3eb3f836a7b"
+    }
+  ]
+}
