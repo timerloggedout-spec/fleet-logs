@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-are-some-command-options-and-flags",
+  "earner": "termux-monorepo",
+  "fleet_run": "41354487819",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T21:57:32.689984+00:00",
+  "artifacts": [
+    {
+      "step": "what-are-some-command-options-and-flags",
+      "title": "What Are Some Command Options and Flags?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-are-some-command-options-and-flags.md",
+      "sha256": "543ec76c2764ce7087388f0b4b29a14cc731fda6b785df0c91df3bb944037e39"
+    }
+  ]
+}
