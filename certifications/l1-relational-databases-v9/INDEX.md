@@ -1,7 +1,7 @@
 # L1 Relational Databases v9 — Capture Index
 Stream: fleet-logs `certifications/l1-relational-databases-v9/`
 Earner: termux-monorepo · Attribution per unit {fleet run, model, status}
-FCC progress: 20/64 (2026-11-01 15:00 PT) · M1 Code Editors COMPLETE 5/5
+FCC progress: 23/64 (2026-11-01 15:09 PT) · M1 Code Editors COMPLETE 5/5
 
 | unit | item | status | fleet run | model |
 |---|---|---|---|---|
@@ -26,3 +26,8 @@ FCC progress: 20/64 (2026-11-01 15:00 PT) · M1 Code Editors COMPLETE 5/5
 | 019 | Theory: Primary and Foreign Keys | PASSED run 41358940452 (Q3 via Correct Option line; KEY line truncated) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
 | 020 | Theory: Types of Relationships | PASSED v10 run 41359564967 (v9 run 41358959968 truncated) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
 | 021 | Theory: Join Tables | PASSED run 41358979996 (Q3 via Correct Option line; KEY line truncated) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 023 | Review: SQL and PostgreSQL | COMPLETED 22/64 · established-by-mechanic (session + M3 captures) | session (R-type) | — |
+| 024 | Quiz: SQL and PostgreSQL | NOT TAKEN — quiz serves RANDOMIZED sets per session; staged set ≠ served set; attempts unburned | — | — |
+| 026 | Theory: Bash Scripting Advantages | PASSED run 41360097178 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 028 | Review: Bash Scripting | COMPLETED 23/64 · established-by-mechanic (session + M4 captures) | session (R-type) | — |
+| 029 | Quiz: Bash Scripting | NOT TAKEN — randomized served set ≠ staged set; run 41360114435 audited (Q10 miskey corrected in record) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |

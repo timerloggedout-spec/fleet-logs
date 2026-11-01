@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "quiz-bash-scripting",
+  "earner": "termux-monorepo",
+  "fleet_run": "41360114435",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:04:34.953313+00:00",
+  "artifacts": [
+    {
+      "step": "quiz-bash-scripting",
+      "title": "Bash Scripting Quiz",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "quiz-bash-scripting.md",
+      "sha256": "a8d119cccd3d35fda1b9bf1097d9fae782e93ac31f36bfa1f029c0872579d05c"
+    }
+  ]
+}
