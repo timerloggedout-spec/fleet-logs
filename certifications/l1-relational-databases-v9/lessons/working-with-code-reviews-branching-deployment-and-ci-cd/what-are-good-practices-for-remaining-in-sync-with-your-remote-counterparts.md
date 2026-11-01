@@ -1,0 +1,10 @@
+# Unit 054 — Theory: What Are Good Practices for Remaining in Sync with Your Remote Counterparts?
+- URL: https://www.freecodecamp.org/learn/relational-databases-v9/lecture-working-with-code-reviews-branching-deployment-and-ci-cd/what-are-good-practices-for-remaining-in-sync-with-your-remote-counterparts
+## Questions (verbatim, signed-in capture 2026-11-01)
+- Q1: What's the main reason you should avoid committing changes directly to your main branch when working with forked repositories? — It will cause your local main branch to diverge from upstream, causing complications when syncing. / It will automatically delete the upstream repository. / It will prevent you from creating pull requests. / It will make your changes invisible to others.
+- Q2: Which series of commands will correctly update your local main branch with changes from the original repository? — git fetch upstream, git checkout main, git merge upstream/main / git checkout main, git fetch upstream, git pull upstream main / git fetch upstream, git pull origin main, git merge upstream/main / git checkout main, git fetch upstream, git merge upstream/main
+- Q3: If you've accidentally committed to your main branch and can't merge upstream changes, what command can you use to forcibly reset your branch to match the upstream (assuming you haven't made any pull requests)? — git reset --soft upstream/main / git reset --hard upstream/main / git revert upstream/main / git checkout --force upstream/main
+## Expected keys (advisory)
+- Q1 It will cause your local main branch to diverge from upstream, causing complications when syncing. · Q2 git fetch upstream, git checkout main, git merge upstream/main · Q3 git reset --hard upstream/main
+
+## SERVED-SET Δ (2026-11-01 15:55–15:58 PT, at submit): live lesson served a DIFFERENT question set than this capture (theory lessons rotate sets per load, like quizzes). Session selected semantic-equivalent answers from the lesson body; all marked Correct, lesson PASSED. Fleet run keyed this captured set; served answers recorded in the lane report ↑mgr (Δ43/64 message).
