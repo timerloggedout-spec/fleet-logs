@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-are-some-shortcuts-you-can-use-in-the-command-line-to-speed-up-productivity",
+  "earner": "termux-monorepo",
+  "fleet_run": "41354457916",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T21:57:29.382811+00:00",
+  "artifacts": [
+    {
+      "step": "what-are-some-shortcuts-you-can-use-in-the-command-line-to-speed-up-productivity",
+      "title": "What Are Some Shortcuts You Can Use in the Command Line to Speed Up Productivity?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-are-some-shortcuts-you-can-use-in-the-command-line-to-speed-up-productivity.md",
+      "sha256": "9dada69198083ab8d1a8916330541210aa31849613c9d459cf4b618fb43e47f9"
+    }
+  ]
+}
