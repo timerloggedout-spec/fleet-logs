@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "how-to-create-a-project-and-run-your-code-locally-in-vs-code",
+  "earner": "termux-monorepo",
+  "fleet_run": "41355668060",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T22:11:54.809696+00:00",
+  "artifacts": [
+    {
+      "step": "how-to-create-a-project-and-run-your-code-locally-in-vs-code",
+      "title": "How to Create a Project and Run Your Code Locally in VS Code",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "how-to-create-a-project-and-run-your-code-locally-in-vs-code.md",
+      "sha256": "d79b26a845f76c0affcafe2028c0472984c7c748d705484bcc40e01847459ed0"
+    }
+  ]
+}
