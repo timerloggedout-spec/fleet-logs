@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "how-do-you-configure-your-system-language-for-bash-and-postgresql-workshops",
+  "earner": "termux-monorepo",
+  "fleet_run": "41356848395",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T22:24:46.937593+00:00",
+  "artifacts": [
+    {
+      "step": "how-do-you-configure-your-system-language-for-bash-and-postgresql-workshops",
+      "title": "How Do You Configure Your System Language for Bash and PostgreSQL Workshops?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "how-do-you-configure-your-system-language-for-bash-and-postgresql-workshops.md",
+      "sha256": "0efee339dd24a8bafa7235933683512641f3ccad219cea2b3795a4b45ac1728f"
+    }
+  ]
+}
