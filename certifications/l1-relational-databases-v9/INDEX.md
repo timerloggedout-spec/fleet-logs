@@ -1,11 +1,18 @@
 # L1 Relational Databases v9 — Capture Index
-Stream: fleet-logs `certifications/l1-relational-databases-v9/` (this staging mirrors that path; publish via PR to fleet-logs)
-Earner: termux-monorepo · Attribution per unit {fleet run, model, telemetry ref, status}
+Stream: fleet-logs `certifications/l1-relational-databases-v9/`
+Earner: termux-monorepo · Attribution per unit {fleet run, model, status}
+FCC progress: 5/64 (2026-11-01 14:08 PT)
 
-| unit | item | FCC progress | fleet run | model | capture |
-|---|---|---|---|---|---|
-| 001 | Lecture: What Is a Code Editor and IDE? | 0/64 → 1/64 PASSED 2026-11-01 | 41353202524 (v2; v1 41351622891 gate-failed) | c4ai-aya-expanse-32b (cohere) | lessons/working-with-code-editors-and-ides/what-is-a-code-editor-and-ide.md + units/001/run-41353202524/ |
-| 002 | Lecture: How to Install Visual Studio Code on Your Computer | pending re-run (verbatim checks relayed) | 41351858104 (v1 gate-failed) | c4ai-aya-expanse-32b | lessons/working-with-code-editors-and-ides/how-to-install-visual-studio-code-onto-your-computer.md |
-| 003 | Lecture: How to Create a Project and Run Your Code Locally in VS Code | pending re-run | 41351867794 (v1 gate-failed) | c4ai-aya-expanse-32b | lessons/working-with-code-editors-and-ides/how-to-create-a-project-and-run-your-code-locally-in-vs-code.md |
-| 004 | Lecture: VS Code Keyboard Shortcuts | pending re-run | 41351877667 (v1 gate-failed) | c4ai-aya-expanse-32b | lessons/working-with-code-editors-and-ides/what-are-several-useful-keyboard-shortcuts-for-maximizing-productivity-in-vs-code.md |
-| 005 | Lecture: Good VS Code Extensions | pending re-run | 41351886842 (v1 gate-failed) | c4ai-aya-expanse-32b | lessons/working-with-code-editors-and-ides/what-are-some-good-vs-code-extensions-you-can-use-in-your-editor.md |
+| unit | item | status | fleet run | model |
+|---|---|---|---|---|
+| 001 | What Is a Code Editor and IDE? | PASSED 1/64 | 41353202524 (v2) | c4ai-aya-expanse-32b |
+| 002 | How to Install Visual Studio Code on Your Computer | PASSED 5/64 · waived(Q2)/established(Q1,Q3) — pin-note in lesson capture | 41355120115 (v3) | c4ai-aya-expanse-32b |
+| 003 | Create a Project and Run Your Code Locally | re-run pending (v2 fetch 404) | 41354114322 (failed) | — |
+| 004 | VS Code Keyboard Shortcuts | re-run pending (v2 fetch 404) | 41354128360 (failed) | — |
+| 005 | Good VS Code Extensions | re-run pending (v2 fetch 404) | 41354142327 (failed) | — |
+| 006 | What Is the Terminal...? | re-run pending (fetch 404) | 41354442069 (failed) | — |
+| 007 | Command Line Shortcuts | PASSED 2/64 | 41354457916 | c4ai-aya-expanse-32b |
+| 008 | What Is Bash, Basic Commands | PASSED 3/64 (manifest detector false-positive noted) | 41354472919 | c4ai-aya-expanse-32b |
+| 009 | Command Options and Flags | PASSED 4/64 | 41354487819 | c4ai-aya-expanse-32b |
+| 010 | Configure System Language | re-run pending — Q2 pinned semicolon (;) (arbiter: @ wrong; body firsthand) | 41354501396 (Q2 wrong) | c4ai-aya-expanse-32b |
+| 011 | Workshop: Build a Boilerplate | token generated; Codespaces secret placement pending owner paste; revocation duty logged | — | — |
