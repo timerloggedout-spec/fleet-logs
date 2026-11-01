@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-version-control-and-why-are-these-systems-necessary",
+  "earner": "termux-monorepo",
+  "fleet_run": "41361635501",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:22:21.697881+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-version-control-and-why-are-these-systems-necessary",
+      "title": "What Is Version Control, and Why Are These Systems Necessary?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-is-version-control-and-why-are-these-systems-necessary.md",
+      "sha256": "c2bc81af5e04784c6faf2dac195352635af93baae60f578176e4af758351615f"
+    }
+  ]
+}
