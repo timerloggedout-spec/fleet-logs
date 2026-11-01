@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-are-several-useful-keyboard-shortcuts-for-maximizing-productivity-in-vs-code",
+  "earner": "termux-monorepo",
+  "fleet_run": "41354128360",
+  "provider": "cohere",
+  "model": "default",
+  "generated_at": "2026-11-01T21:51:43.759902+00:00",
+  "artifacts": [
+    {
+      "step": "what-are-several-useful-keyboard-shortcuts-for-maximizing-productivity-in-vs-code",
+      "title": "What Are Several Useful Keyboard Shortcuts for Maximizing Productivity in VS Code?",
+      "ok": false,
+      "content_missing": [],
+      "http": 404,
+      "path": "what-are-several-useful-keyboard-shortcuts-for-maximizing-productivity-in-vs-code.md",
+      "sha256": null
+    }
+  ]
+}
