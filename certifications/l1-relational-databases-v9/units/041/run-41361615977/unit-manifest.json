@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-nano",
+  "earner": "termux-monorepo",
+  "fleet_run": "41361615977",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:22:09.587074+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-nano",
+      "title": "What Is Nano?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-is-nano.md",
+      "sha256": "e778d0b26f07787e60aeb7c390449222455c420bcd10e2136b384f6c4d27b0fb"
+    }
+  ]
+}
