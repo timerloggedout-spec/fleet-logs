@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-are-the-different-types-of-relationships-in-a-relational-database",
+  "earner": "termux-monorepo",
+  "fleet_run": "41359564967",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T22:57:44.439796+00:00",
+  "artifacts": [
+    {
+      "step": "what-are-the-different-types-of-relationships-in-a-relational-database",
+      "title": "What Are the Different Types of Relationships in a Relational Database ?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-are-the-different-types-of-relationships-in-a-relational-database.md",
+      "sha256": "fbc5bf2cdbe4d83646132059a2cdcc936ae901fc258bcf3048a6dc7ef543bcca"
+    }
+  ]
+}
