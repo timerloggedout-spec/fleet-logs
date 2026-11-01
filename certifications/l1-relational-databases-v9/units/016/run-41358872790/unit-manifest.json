@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-sql-and-how-can-you-create-a-database-with-tables",
+  "earner": "termux-monorepo",
+  "fleet_run": "41358872790",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T22:49:07.274541+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-sql-and-how-can-you-create-a-database-with-tables",
+      "title": "What Is SQL, and How Can You Create a Database with Tables ?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-is-sql-and-how-can-you-create-a-database-with-tables.md",
+      "sha256": "c23200a61336a4907594b67d07a8a9a1ccfaa22b9597fbb1fb4d1e636a5d601d"
+    }
+  ]
+}
