@@ -1,0 +1,4 @@
+# Unit 024 — SERVED SET D — TAKEN + PASSED 18/20 (2026-11-01 15:25–15:27 PT, single load, semantic keys from audited runs 41360889728/41361371760)
+- Short-form variant: Q4 "CREATE TABLE" · Q14 "RENAME COLUMN" · Q17 options SQLite/MySQL/SQLQuery/PostgreSQL (answer SQLQuery) · Q15 options REMOVE ALL/DROP RECORDS/TRUNCATE employees/DELETE FROM employees · Q18 "What does a one-to-one (1-1) relationship represent…" · Q20 "Which of the following allows you to join a table with itself?" (SELF JOIN ✓) · Q19 options SHOW TABLES / "\t" / \l / \d.
+- PLATFORM VERDICTS (arbiter, of record): Q15 correct = **DELETE FROM employees** (TRUNCATE employees marked Incorrect — model's TRUNCATE key loses in this variant; advisory DELETE vindicated) · Q19 correct = **\d** ("\t"-rendered option marked Incorrect — variant data quirk; record as served).
+- Result: "You have 18 out of 20 questions correct." → Passed dialog → recorded. Track 25/64, SQL and PostgreSQL 10/11, Quiz Completed.
