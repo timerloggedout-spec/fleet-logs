@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-the-purpose-of-sites-like-github-and-gitlab",
+  "earner": "termux-monorepo",
+  "fleet_run": "41361655172",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:22:35.652710+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-the-purpose-of-sites-like-github-and-gitlab",
+      "title": "What Is the Purpose of Sites Like GitHub and GitLab, and What Are Some Benefits of Using Them?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-is-the-purpose-of-sites-like-github-and-gitlab.md",
+      "sha256": "ab1ac245f8e2b503e56745749e2ff8f17c5acbf0e99d596ebed3deacdc5fc53b"
+    }
+  ]
+}

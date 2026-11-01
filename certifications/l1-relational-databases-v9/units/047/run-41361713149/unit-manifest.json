@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "how-do-you-handle-security-requirements-like-ssh-and-gpg-keys",
+  "earner": "termux-monorepo",
+  "fleet_run": "41361713149",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:23:21.468983+00:00",
+  "artifacts": [
+    {
+      "step": "how-do-you-handle-security-requirements-like-ssh-and-gpg-keys",
+      "title": "How Do You Handle Security Requirements Like SSH and GPG Keys?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "how-do-you-handle-security-requirements-like-ssh-and-gpg-keys.md",
+      "sha256": "e784cdb4e58725df247ebacd4472fc1437011bcdff34a5c4451d120829e6133d"
+    }
+  ]
+}

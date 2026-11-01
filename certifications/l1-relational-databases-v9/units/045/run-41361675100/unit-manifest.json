@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "how-do-you-install-and-set-up-git",
+  "earner": "termux-monorepo",
+  "fleet_run": "41361675100",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:22:52.570451+00:00",
+  "artifacts": [
+    {
+      "step": "how-do-you-install-and-set-up-git",
+      "title": "How Do You Install and Set Up Git?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "how-do-you-install-and-set-up-git.md",
+      "sha256": "a43ff50cb9c38b0e02a22cc15b856945574dcbf02e28028c54f466a31aa468bc"
+    }
+  ]
+}

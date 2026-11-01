@@ -1,0 +1,23 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "quiz-bash-scripting-b",
+  "earner": "termux-monorepo",
+  "fleet_run": "41360909669",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:13:45.208314+00:00",
+  "artifacts": [
+    {
+      "step": "quiz-bash-scripting-b",
+      "title": "Bash Scripting Quiz (served set B)",
+      "ok": false,
+      "content_missing": [
+        "Q2-key",
+        "Q14-key"
+      ],
+      "http": 200,
+      "path": "quiz-bash-scripting-b.md",
+      "sha256": "046ee555bbcf490b20cf9169147f1972c2093c124bd59567e98067a6d72276e9"
+    }
+  ]
+}

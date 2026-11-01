@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-a-repository-and-how-do-you-create-one",
+  "earner": "termux-monorepo",
+  "fleet_run": "41361694889",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:23:04.660052+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-a-repository-and-how-do-you-create-one",
+      "title": "What Is a Repository, and How Do You Create One?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-is-a-repository-and-how-do-you-create-one.md",
+      "sha256": "5a3ffcf9377fdedb71ce49504bebb13547b5d3b96aeadbf5e48ee6721eb96cf8"
+    }
+  ]
+}

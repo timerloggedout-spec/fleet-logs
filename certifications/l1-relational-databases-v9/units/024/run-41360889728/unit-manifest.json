@@ -1,0 +1,22 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "quiz-sql-and-postgresql-b",
+  "earner": "termux-monorepo",
+  "fleet_run": "41360889728",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:13:29.059931+00:00",
+  "artifacts": [
+    {
+      "step": "quiz-sql-and-postgresql-b",
+      "title": "SQL and PostgreSQL Quiz (served set B)",
+      "ok": false,
+      "content_missing": [
+        "Q3-key"
+      ],
+      "http": 200,
+      "path": "quiz-sql-and-postgresql-b.md",
+      "sha256": "d79af55f0e1da4e3e4c03381cdc059bbd57619bf1ccac92b62679fa3fa6b64ab"
+    }
+  ]
+}
