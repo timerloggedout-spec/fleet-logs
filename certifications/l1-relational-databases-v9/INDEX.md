@@ -1,7 +1,7 @@
 # L1 Relational Databases v9 — Capture Index
 Stream: fleet-logs `certifications/l1-relational-databases-v9/`
 Earner: termux-monorepo · Attribution per unit {fleet run, model, status}
-FCC progress: 25/64 (2026-11-01 15:16 PT) · M1 Code Editors COMPLETE 5/5
+FCC progress: 43/64 (2026-11-01 15:58 PT) · M1 Code Editors COMPLETE 5/5
 
 | unit | item | status | fleet run | model |
 |---|---|---|---|---|
@@ -31,3 +31,21 @@ FCC progress: 25/64 (2026-11-01 15:16 PT) · M1 Code Editors COMPLETE 5/5
 | 026 | Theory: Bash Scripting Advantages | PASSED run 41360097178 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
 | 028 | Review: Bash Scripting | COMPLETED 23/64 · established-by-mechanic (session + M4 captures) | session (R-type) | — |
 | 029 | Quiz: Bash Scripting | PASSED 20/20 on served set B, run 41360909669 (Q15 advisory-corrected) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 041 | Theory: What Is Nano? | PASSED run 41361615977 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 043 | Theory: Version Control | PASSED run 41361635501 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 044 | Theory: GitHub/GitLab Purpose | PASSED run 41361655172 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 045 | Theory: Install and Set Up Git | PASSED run 41361675100 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 046 | Theory: Repository | PASSED run 41361694889 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 047 | Theory: SSH and GPG Keys | PASSED run 41361713149 — waived(Q3 pin)/established(Q1,Q2) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 048 | Theory: Push a Local Repository to GitHub | PASSED run 41362369077 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 049 | Theory: Contribute to Other People's Repositories | PASSED run 41362385875 (served-set Δ Q1/Q3 at submit; semantic answers Correct) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 050 | Theory: Create a New Branch | PASSED run 41362406922 | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 051 | Theory: Pull Request | PASSED run 41362427850 (gate Q2-key = matcher FP, substance ✓) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 052 | Theory: Code Review Process | PASSED run 41364078448 (served-set Δ at submit; semantic answers Correct) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 053 | Theory: GitHub Pages Deploy | PASSED run 41364096135 (served-set Δ) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 054 | Theory: Sync with Remote | PASSED run 41364114083 (served-set Δ) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 055 | Theory: .gitignore | PASSED run 41364130833 (served-set Δ) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 056 | Theory: Branching Strategy | PASSED run 41364148721 (served-set Δ) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 057 | Theory: Merge Conflicts | PASSED run 41364166341 (served-set Δ) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 058 | Theory: CI/CD + GitHub Actions | PASSED run 41364184062 (served-set Δ) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 060 | Review: Git | COMPLETED 43/64 · established-by-mechanic (session + M6 captures) | session (R-type) | — |

@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-are-merge-conflicts-and-how-can-you-resolve-them",
+  "earner": "termux-monorepo",
+  "fleet_run": "41364166341",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:53:47.472851+00:00",
+  "artifacts": [
+    {
+      "step": "what-are-merge-conflicts-and-how-can-you-resolve-them",
+      "title": "What Are Merge Conflicts, and How Can You Resolve Them?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-are-merge-conflicts-and-how-can-you-resolve-them.md",
+      "sha256": "2617392dcd0f75c12b68584ea1e725aa90c554afc3200cace271e797e1751020"
+    }
+  ]
+}

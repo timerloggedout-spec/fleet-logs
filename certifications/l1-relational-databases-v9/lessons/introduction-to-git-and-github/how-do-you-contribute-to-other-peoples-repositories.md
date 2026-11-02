@@ -6,3 +6,5 @@
 - Q3: What is the purpose of the upstream remote in the context of contributing to a repository? — To push changes directly to the original repository. / To create a backup of the forked repository. / To fetch updates from the original repository. / To merge changes into the forked repository.
 ## Expected keys (advisory)
 - Q1 Forking the repository. · Q2 git remote add upstream [URL] · Q3 To fetch updates from the original repository.
+
+## CORRECTION (2026-11-01 15:35–15:39 PT, at submit): live lesson version differs from this capture — served Q1 "Why do you need to fork a repository when contributing to someone else's project?" (answered "Because you generally don't have write access to someone else's repository." ✓ Correct) · served Q3 "What is the conventional name for the remote that points to the original repository you forked from?" (answered "upstream" ✓ Correct). Q2 as captured ✓. Lesson PASSED; run 41362385875 keyed the captured set (Q1/Q3 semantic-equivalent answers selected in session).

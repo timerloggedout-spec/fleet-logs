@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "how-do-you-push-a-local-repository-to-github",
+  "earner": "termux-monorepo",
+  "fleet_run": "41362369077",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:31:35.966866+00:00",
+  "artifacts": [
+    {
+      "step": "how-do-you-push-a-local-repository-to-github",
+      "title": "How Do You Push a Local Repository to GitHub?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "how-do-you-push-a-local-repository-to-github.md",
+      "sha256": "b4f1233cb69eaf4e9cca671491e931a3e1e4f71478a61fd9aaa9bae90cbeb95a"
+    }
+  ]
+}

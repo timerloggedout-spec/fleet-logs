@@ -1,0 +1,22 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-a-pull-request-and-how-do-you-create-one",
+  "earner": "termux-monorepo",
+  "fleet_run": "41362427850",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:32:19.309984+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-a-pull-request-and-how-do-you-create-one",
+      "title": "What Is a Pull Request, and How Do You Create One?",
+      "ok": false,
+      "content_missing": [
+        "Q2-key"
+      ],
+      "http": 200,
+      "path": "what-is-a-pull-request-and-how-do-you-create-one.md",
+      "sha256": "a70ab14e84e24005172c217d59c2d6dcef6dd8d6d5b590b4c8ab20d16033ea7b"
+    }
+  ]
+}

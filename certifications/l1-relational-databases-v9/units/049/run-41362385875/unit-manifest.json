@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "how-do-you-contribute-to-other-peoples-repositories",
+  "earner": "termux-monorepo",
+  "fleet_run": "41362385875",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:31:57.791086+00:00",
+  "artifacts": [
+    {
+      "step": "how-do-you-contribute-to-other-peoples-repositories",
+      "title": "How Do You Contribute to Other People's Repositories?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "how-do-you-contribute-to-other-peoples-repositories.md",
+      "sha256": "5fd0c417c9a1896e4b01997dec5791d4680f92dcda07e88e5eb6a9479f3b6e43"
+    }
+  ]
+}
