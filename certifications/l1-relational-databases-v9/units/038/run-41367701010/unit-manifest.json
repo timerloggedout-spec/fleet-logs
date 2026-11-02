@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "quiz-bash-and-sql-a",
+  "earner": "termux-monorepo",
+  "fleet_run": "41367701010",
+  "provider": "sealion",
+  "model": "aisingapore/Llama-SEA-LION-v3-70B-IT",
+  "generated_at": "2026-11-02T00:33:02.401449+00:00",
+  "artifacts": [
+    {
+      "step": "quiz-bash-and-sql-a",
+      "title": "Bash and SQL Quiz (served set A)",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "quiz-bash-and-sql-a.md",
+      "sha256": "bea87cbf4a7f5f02cf3e5dbad90c0ca5fa35dc1dc0085fdbd119672ecfeccc6f"
+    }
+  ]
+}
