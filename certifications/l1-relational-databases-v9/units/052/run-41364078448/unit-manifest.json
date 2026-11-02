@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-does-a-typical-code-review-process-look-like-for-projects",
+  "earner": "termux-monorepo",
+  "fleet_run": "41364078448",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:52:46.466727+00:00",
+  "artifacts": [
+    {
+      "step": "what-does-a-typical-code-review-process-look-like-for-projects",
+      "title": "What Does a Typical Code Review Process Look Like for Projects?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-does-a-typical-code-review-process-look-like-for-projects.md",
+      "sha256": "fa3eb242be9fb7c2469382e292d0703a63bac07d31dec729c4ca7a9fa71c6ca1"
+    }
+  ]
+}
