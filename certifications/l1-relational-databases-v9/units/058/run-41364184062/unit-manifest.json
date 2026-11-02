@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-ci-cd-and-how-does-ci-work-with-github-actions",
+  "earner": "termux-monorepo",
+  "fleet_run": "41364184062",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:53:59.132750+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-ci-cd-and-how-does-ci-work-with-github-actions",
+      "title": "What Is CI/CD, and How Does CI Work with GitHub Actions?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-is-ci-cd-and-how-does-ci-work-with-github-actions.md",
+      "sha256": "56b9dece0d9e6428eb80f544ab68789f60648c40385a2201b83d032127115d38"
+    }
+  ]
+}
