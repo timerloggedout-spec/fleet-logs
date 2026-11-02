@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-normalization-in-sql",
+  "earner": "termux-monorepo",
+  "fleet_run": "41367410806",
+  "provider": "sealion",
+  "model": "aisingapore/Llama-SEA-LION-v3-70B-IT",
+  "generated_at": "2026-11-02T00:30:55.071392+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-normalization-in-sql",
+      "title": "What Is Normalization in SQL?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-is-normalization-in-sql.md",
+      "sha256": "f544a68e01bd946b7f388ef3801fec3c44438b7c01676f933e702108f6ac30c9"
+    }
+  ]
+}
