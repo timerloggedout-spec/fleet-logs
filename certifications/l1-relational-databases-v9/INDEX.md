@@ -1,7 +1,7 @@
 # L1 Relational Databases v9 — Capture Index
 Stream: fleet-logs `certifications/l1-relational-databases-v9/`
 Earner: termux-monorepo · Attribution per unit {fleet run, model, status}
-FCC progress: 43/64 (2026-11-01 15:58 PT) · M1 Code Editors COMPLETE 5/5
+FCC progress: 48/64 (2026-11-01 16:36 PT) · M1 Code Editors COMPLETE 5/5
 
 | unit | item | status | fleet run | model |
 |---|---|---|---|---|
@@ -49,3 +49,8 @@ FCC progress: 43/64 (2026-11-01 15:58 PT) · M1 Code Editors COMPLETE 5/5
 | 057 | Theory: Merge Conflicts | PASSED run 41364166341 (served-set Δ) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
 | 058 | Theory: CI/CD + GitHub Actions | PASSED run 41364184062 (served-set Δ) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
 | 060 | Review: Git | COMPLETED 43/64 · established-by-mechanic (session + M6 captures) | session (R-type) | — |
+| 037 | Review: Bash and SQL | COMPLETED 44/64 · established-by-mechanic (session + M5 captures) | session (R-type) | — |
+| 038 | Quiz: Bash and SQL | PASSED 20/20 run 41367701010 (sealion arm; served set A held across tasks) | termux-monorepo | aisingapore/Llama-SEA-LION-v3-70B-IT (sealion) |
+| 030 | Theory: Working With SQL | PASSED run 41367410806 (sealion arm; served variant answered semantically, platform-verified) | termux-monorepo | aisingapore/Llama-SEA-LION-v3-70B-IT (sealion) |
+| 031 | Theory: Working With SQL | PASSED run 41367431291 (sealion arm; served variant answered semantically, platform-verified) | termux-monorepo | aisingapore/Llama-SEA-LION-v3-70B-IT (sealion) |
+| 032 | Theory: Working With SQL | PASSED run 41367453278 (sealion arm; served variant answered semantically, platform-verified) | termux-monorepo | aisingapore/Llama-SEA-LION-v3-70B-IT (sealion) |
