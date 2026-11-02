@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "how-do-you-create-a-new-branch-for-your-repository",
+  "earner": "termux-monorepo",
+  "fleet_run": "41362406922",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:32:03.829133+00:00",
+  "artifacts": [
+    {
+      "step": "how-do-you-create-a-new-branch-for-your-repository",
+      "title": "How Do You Create a New Branch for Your Repository?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "how-do-you-create-a-new-branch-for-your-repository.md",
+      "sha256": "e3a9f1400fa181e9b87d152bcb060f3b2a3956d4bd95a9b47617897d14f324ab"
+    }
+  ]
+}
