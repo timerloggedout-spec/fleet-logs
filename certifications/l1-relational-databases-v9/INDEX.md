@@ -1,7 +1,7 @@
 # L1 Relational Databases v9 — Capture Index
 Stream: fleet-logs `certifications/l1-relational-databases-v9/`
 Earner: termux-monorepo · Attribution per unit {fleet run, model, status}
-FCC progress: 48/64 (2026-11-01 16:36 PT) · M1 Code Editors COMPLETE 5/5
+FCC progress: 50/64 (2026-11-01 21:12 PT) · M1 Code Editors COMPLETE 5/5
 
 | unit | item | status | fleet run | model |
 |---|---|---|---|---|
@@ -54,3 +54,6 @@ FCC progress: 48/64 (2026-11-01 16:36 PT) · M1 Code Editors COMPLETE 5/5
 | 030 | Theory: Working With SQL | PASSED run 41367410806 (sealion arm; served variant answered semantically, platform-verified) | termux-monorepo | aisingapore/Llama-SEA-LION-v3-70B-IT (sealion) |
 | 031 | Theory: Working With SQL | PASSED run 41367431291 (sealion arm; served variant answered semantically, platform-verified) | termux-monorepo | aisingapore/Llama-SEA-LION-v3-70B-IT (sealion) |
 | 032 | Theory: Working With SQL | PASSED run 41367453278 (sealion arm; served variant answered semantically, platform-verified) | termux-monorepo | aisingapore/Llama-SEA-LION-v3-70B-IT (sealion) |
+| 061 | Quiz: Git | PASSED 20/20 run 41376051120 (served variant B answered semantically, platform-verified) | termux-monorepo | c4ai-aya-expanse-32b (cohere) |
+| 064 | Review: Relational Databases | COMPLETED 2026-11-01 21:12 PT (established-by-mechanic) | session | — |
+| 025/039/040/062/063 | Cert Projects | Fleet builds PASS (runs 41378291157/41379161305/41379885682/41380626948/41381256768); solution-link submits REJECTED by FCC 2026-11-01: "You must complete the project first." — Step-1 in-VM CodeRoad completion record required on account before Step 2 accepts a link | termux-monorepo | — |

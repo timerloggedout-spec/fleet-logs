@@ -1,0 +1,2 @@
+# Unit 061 — SERVED SET B (submit load 2026-11-01 21:09-21:12 PT) — PASSED 20/20
+Variant of set A: Q3 git config · Q4 git --version · Q7 git init · Q9 git clone · Q12 git reset · Q13 pull request def · Q14 main branch · Q15 GitHub Pages · Q19 git branch replaced SSH/branching-strategy/Code-Freezing/checkout -b/diff/unstage/stash/descriptive-names stems. Answered semantically in-load, platform-verified 20/20. Fleet basis: run 41376051120 (cohere) keys + advisory (concepts overlapping: Q1/Q2/Q5/Q6/Q8/Q10/Q11/Q16/Q17/Q18/Q20).

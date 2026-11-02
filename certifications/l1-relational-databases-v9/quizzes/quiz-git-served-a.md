@@ -1,0 +1,23 @@
+# Unit 061 — Quiz: Git (served set A, live capture 2026-11-01 16:38-16:40 PT, tab parked)
+- URL: https://www.freecodecamp.org/learn/relational-databases-v9/quiz-git/quiz-git · pass >=18/20
+- Q1 What is git? -> A version control system allows you to track and manage changes in your project.
+- Q2 popular cloud based version control provider -> GitHub
+- Q3 git push -> It pushes the changes from a local repository to a remote repository.
+- Q4 SSH -> Secure Shell
+- Q5 tool for GitHub tasks without leaving CLI -> GitHub CLI
+- Q6 feature to automate workflows in repo -> GitHub Actions
+- Q7 branching strategy -> A set of guidelines for how branches should be structured and used in a project.
+- Q8 NOT a common branching strategy -> Code-Freezing
+- Q9 .gitignore purpose -> It prevents Git from tracking specific files or directories.
+- Q10 list prior commits -> git log
+- Q11 list remotes -> git remote -v
+- Q12 check status -> git status
+- Q13 common use of git -> Managing code changes and collaboration.
+- Q14 create branch and switch -> git checkout -b <branch-name>
+- Q15 check changes to a file -> git diff <file>
+- Q16 unstage a file -> git reset HEAD <file>
+- Q17 stash changes -> git stash
+- Q18 download objects and refs from remote -> git fetch
+- Q19 best practice branches -> Use clear, descriptive names for branches.
+- Q20 move/combine sequence of commits onto another branch -> git rebase
+## Advisory keys (Platforms): as listed per question.
