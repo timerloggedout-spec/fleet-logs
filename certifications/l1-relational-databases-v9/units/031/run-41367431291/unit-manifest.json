@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-sql-injection-and-what-are-some-ways-to-prevent-it",
+  "earner": "termux-monorepo",
+  "fleet_run": "41367431291",
+  "provider": "sealion",
+  "model": "aisingapore/Llama-SEA-LION-v3-70B-IT",
+  "generated_at": "2026-11-02T00:30:18.517230+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-sql-injection-and-what-are-some-ways-to-prevent-it",
+      "title": "What Is SQL Injection, and What Are Some Ways to Prevent It?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-is-sql-injection-and-what-are-some-ways-to-prevent-it.md",
+      "sha256": "9a88771b9b108ac809618565c7086191d3bb1258ab95e3ffb2441d333e4c05ce"
+    }
+  ]
+}
