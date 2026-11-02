@@ -1,0 +1,20 @@
+{
+  "cert": "l1-relational-databases-v9",
+  "unit": "what-is-a-gitignore-file-and-what-are-some-items-that-should-be-included-inside-it",
+  "earner": "termux-monorepo",
+  "fleet_run": "41364130833",
+  "provider": "cohere",
+  "model": "c4ai-aya-expanse-32b",
+  "generated_at": "2026-11-01T23:53:17.699299+00:00",
+  "artifacts": [
+    {
+      "step": "what-is-a-gitignore-file-and-what-are-some-items-that-should-be-included-inside-it",
+      "title": "What Is a .gitignore File, and What Are Some Items That Should Be Included Inside It?",
+      "ok": true,
+      "content_missing": [],
+      "http": 200,
+      "path": "what-is-a-gitignore-file-and-what-are-some-items-that-should-be-included-inside-it.md",
+      "sha256": "56ffb3facd6fc52d4f072e21143bddaa6558446adfb5f0993aec3c6e2cc9f2f1"
+    }
+  ]
+}
